@@ -1,0 +1,7 @@
+region              = "eu-north-1"
+key-name            = "key-Terraform"
+ami                 = "ami-0a5873df7e1f05a09"
+instance-type       = "t3.micro"
+tag-name            = "Created-by-Terraform"
+availability_zone-1 = "eu-north-1a"
+availability_zone-2 = "eu-north-1b"
